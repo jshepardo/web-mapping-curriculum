@@ -1,6 +1,6 @@
 # Web-Mapping-Curriculum
 
-Instructor: Dan Swick, dan@mapbox.com
+Instructor: Dan Swick, dan@mapbox.com and Kevin Butler, Project ECHO Data Team
 <br> TA: Megan Danielson, megan.danielson@mapbox.com
 <br>Office Hours: By appointment only 
 
